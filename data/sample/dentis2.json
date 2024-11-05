@@ -1,0 +1,172 @@
+[
+    {
+        "provider_name": "Dr. Emily Clark",
+        "provider_type": "Dentist",
+        "provider_address": "789 Maple St, Smalltown, USA",
+        "area_code": "789",
+        "phone_number": "012-3456",
+        "reviews": [
+            {
+                "reviewer_name": "Liam Johnson",
+                "reviewer_datetime": "2021-01-15T10:00:00",
+                "text": "Dr. Clark is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Emma Brown",
+                "reviewer_datetime": "2021-02-20T14:30:00",
+                "text": "I had to wait a long time, but Dr. Clark was worth it. Very thorough."
+            },
+            {
+                "reviewer_name": "Noah Davis",
+                "reviewer_datetime": "2021-03-10T09:45:00",
+                "text": "Dr. Clark's office is very clean and the staff is friendly. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Olivia Wilson",
+                "reviewer_datetime": "2021-04-05T11:15:00",
+                "text": "I had a bad experience with Dr. Clark. The procedure was painful and I felt rushed."
+            },
+            {
+                "reviewer_name": "Ava Martinez",
+                "reviewer_datetime": "2021-05-22T16:30:00",
+                "text": "Dr. Clark is very patient and takes the time to answer all my questions. Excellent dentist."
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. Michael Lee",
+        "provider_type": "Dentist",
+        "provider_address": "321 Oak St, Middletown, USA",
+        "area_code": "321",
+        "phone_number": "654-7890",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Garcia",
+                "reviewer_datetime": "2021-06-18T10:00:00",
+                "text": "Dr. Lee is very professional and knowledgeable. Highly recommend!"
+            },
+            {
+                "reviewer_name": "James Rodriguez",
+                "reviewer_datetime": "2021-07-25T13:30:00",
+                "text": "The office is outdated and the equipment looks old. Needs improvement."
+            },
+            {
+                "reviewer_name": "Isabella Hernandez",
+                "reviewer_datetime": "2021-08-30T15:00:00",
+                "text": "Dr. Lee is very friendly and makes you feel comfortable. Great dentist!"
+            },
+            {
+                "reviewer_name": "Benjamin Martinez",
+                "reviewer_datetime": "2021-09-10T11:30:00",
+                "text": "I had a great experience with Dr. Lee. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Mia Wilson",
+                "reviewer_datetime": "2021-10-05T14:15:00",
+                "text": "Dr. Lee is very professional and caring. Great experience!"
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. William Brown",
+        "provider_type": "Dentist",
+        "provider_address": "654 Pine St, Bigcity, USA",
+        "area_code": "654",
+        "phone_number": "987-0123",
+        "reviews": [
+            {
+                "reviewer_name": "Lucas Johnson",
+                "reviewer_datetime": "2021-11-15T10:00:00",
+                "text": "Dr. Brown is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Mason Davis",
+                "reviewer_datetime": "2021-12-20T14:30:00",
+                "text": "I had to wait a long time, but Dr. Brown was worth it. Very thorough."
+            },
+            {
+                "reviewer_name": "Ethan Wilson",
+                "reviewer_datetime": "2022-01-10T09:45:00",
+                "text": "Dr. Brown's office is very clean and the staff is friendly. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Alexander Martinez",
+                "reviewer_datetime": "2022-02-05T11:15:00",
+                "text": "I had a bad experience with Dr. Brown. The procedure was painful and I felt rushed."
+            },
+            {
+                "reviewer_name": "Charlotte Garcia",
+                "reviewer_datetime": "2022-03-22T16:30:00",
+                "text": "Dr. Brown is very patient and takes the time to answer all my questions. Excellent dentist."
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. Ava Wilson",
+        "provider_type": "Dentist",
+        "provider_address": "987 Cedar St, Smallville, USA",
+        "area_code": "987",
+        "phone_number": "321-6547",
+        "reviews": [
+            {
+                "reviewer_name": "Amelia Johnson",
+                "reviewer_datetime": "2022-04-18T10:00:00",
+                "text": "Dr. Wilson is very professional and knowledgeable. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Harper Brown",
+                "reviewer_datetime": "2022-05-25T13:30:00",
+                "text": "The office is outdated and the equipment looks old. Needs improvement."
+            },
+            {
+                "reviewer_name": "Evelyn Davis",
+                "reviewer_datetime": "2022-06-30T15:00:00",
+                "text": "Dr. Wilson is very friendly and makes you feel comfortable. Great dentist!"
+            },
+            {
+                "reviewer_name": "Abigail Martinez",
+                "reviewer_datetime": "2022-07-10T11:30:00",
+                "text": "I had a great experience with Dr. Wilson. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Ella Hernandez",
+                "reviewer_datetime": "2022-08-05T14:15:00",
+                "text": "Dr. Wilson is very professional and caring. Great experience!"
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. James Martinez",
+        "provider_type": "Dentist",
+        "provider_address": "123 Birch St, Anytown, USA",
+        "area_code": "123",
+        "phone_number": "456-7890",
+        "reviews": [
+            {
+                "reviewer_name": "Aiden Johnson",
+                "reviewer_datetime": "2022-09-15T10:00:00",
+                "text": "Dr. Martinez is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Logan Brown",
+                "reviewer_datetime": "2022-10-20T14:30:00",
+                "text": "I had to wait a long time, but Dr. Martinez was worth it. Very thorough."
+            },
+            {
+                "reviewer_name": "Lucas Davis",
+                "reviewer_datetime": "2022-11-10T09:45:00",
+                "text": "Dr. Martinez's office is very clean and the staff is friendly. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Mason Wilson",
+                "reviewer_datetime": "2022-12-05T11:15:00",
+                "text": "I had a bad experience with Dr. Martinez. The procedure was painful and I felt rushed."
+            },
+            {
+                "reviewer_name": "Ethan Garcia",
+                "reviewer_datetime": "2023-01-22T16:30:00",
+                "text": "Dr. Martinez is very patient and takes the time to answer all my questions. Excellent dentist."
+            }
+        ]
+    }
+]

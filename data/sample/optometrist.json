@@ -1,0 +1,172 @@
+[
+    {
+        "provider_name": "Dr. Emily Clark",
+        "provider_type": "Optometrist",
+        "provider_address": "456 Vision Blvd, Eyecity, USA",
+        "area_code": "456",
+        "phone_number": "789-0123",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Martinez",
+                "reviewer_datetime": "2022-07-25T13:30:00",
+                "text": "Dr. Clark is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Liam Johnson",
+                "reviewer_datetime": "2022-08-30T15:00:00",
+                "text": "The office is outdated and the equipment looks old. Needs improvement."
+            },
+            {
+                "reviewer_name": "Olivia Rodriguez",
+                "reviewer_datetime": "2022-09-10T11:30:00",
+                "text": "Dr. Clark is very friendly and makes you feel comfortable. Great optometrist!"
+            },
+            {
+                "reviewer_name": "Noah Garcia",
+                "reviewer_datetime": "2022-10-05T14:15:00",
+                "text": "I had a great experience with Dr. Clark. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Isabella Hernandez",
+                "reviewer_datetime": "2022-11-15T10:00:00",
+                "text": "Dr. Clark is very professional and caring. Great experience!"
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. Michael Lee",
+        "provider_type": "Optometrist",
+        "provider_address": "789 Eye St, Visiontown, USA",
+        "area_code": "789",
+        "phone_number": "012-3456",
+        "reviews": [
+            {
+                "reviewer_name": "Lucas Johnson",
+                "reviewer_datetime": "2022-12-20T14:30:00",
+                "text": "Dr. Lee is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Mason Davis",
+                "reviewer_datetime": "2023-01-10T09:45:00",
+                "text": "I had to wait a long time, but Dr. Lee was worth it. Very thorough."
+            },
+            {
+                "reviewer_name": "Ethan Wilson",
+                "reviewer_datetime": "2023-02-05T11:15:00",
+                "text": "Dr. Lee's office is very clean and the staff is friendly. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Alexander Martinez",
+                "reviewer_datetime": "2023-03-22T16:30:00",
+                "text": "I had a bad experience with Dr. Lee. The appointment felt rushed."
+            },
+            {
+                "reviewer_name": "Charlotte Garcia",
+                "reviewer_datetime": "2023-04-18T10:00:00",
+                "text": "Dr. Lee is very patient and takes the time to answer all my questions. Excellent optometrist."
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. William Brown",
+        "provider_type": "Optometrist",
+        "provider_address": "321 Vision Ave, Eyetown, USA",
+        "area_code": "321",
+        "phone_number": "654-7890",
+        "reviews": [
+            {
+                "reviewer_name": "Amelia Johnson",
+                "reviewer_datetime": "2023-05-25T13:30:00",
+                "text": "Dr. Brown is very professional and knowledgeable. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Harper Brown",
+                "reviewer_datetime": "2023-06-30T15:00:00",
+                "text": "The office is outdated and the equipment looks old. Needs improvement."
+            },
+            {
+                "reviewer_name": "Evelyn Davis",
+                "reviewer_datetime": "2023-07-10T11:30:00",
+                "text": "Dr. Brown is very friendly and makes you feel comfortable. Great optometrist!"
+            },
+            {
+                "reviewer_name": "Abigail Martinez",
+                "reviewer_datetime": "2023-08-05T14:15:00",
+                "text": "I had a great experience with Dr. Brown. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Ella Hernandez",
+                "reviewer_datetime": "2023-09-15T10:00:00",
+                "text": "Dr. Brown is very professional and caring. Great experience!"
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. Ava Wilson",
+        "provider_type": "Optometrist",
+        "provider_address": "654 Eye St, Vision City, USA",
+        "area_code": "654",
+        "phone_number": "987-0123",
+        "reviews": [
+            {
+                "reviewer_name": "Aiden Johnson",
+                "reviewer_datetime": "2023-10-20T14:30:00",
+                "text": "Dr. Wilson is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Logan Brown",
+                "reviewer_datetime": "2023-11-10T09:45:00",
+                "text": "I had to wait a long time, but Dr. Wilson was worth it. Very thorough."
+            },
+            {
+                "reviewer_name": "Lucas Davis",
+                "reviewer_datetime": "2023-12-05T11:15:00",
+                "text": "Dr. Wilson's office is very clean and the staff is friendly. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Mason Wilson",
+                "reviewer_datetime": "2024-01-22T16:30:00",
+                "text": "I had a bad experience with Dr. Wilson. The appointment felt rushed."
+            },
+            {
+                "reviewer_name": "Ethan Garcia",
+                "reviewer_datetime": "2024-02-18T10:00:00",
+                "text": "Dr. Wilson is very patient and takes the time to answer all my questions. Excellent optometrist."
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. James Martinez",
+        "provider_type": "Optometrist",
+        "provider_address": "987 Vision St, Eyecity, USA",
+        "area_code": "987",
+        "phone_number": "321-6547",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Johnson",
+                "reviewer_datetime": "2024-03-25T13:30:00",
+                "text": "Dr. Martinez is very professional and knowledgeable. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Liam Brown",
+                "reviewer_datetime": "2024-04-30T15:00:00",
+                "text": "The office is outdated and the equipment looks old. Needs improvement."
+            },
+            {
+                "reviewer_name": "Olivia Davis",
+                "reviewer_datetime": "2024-05-10T11:30:00",
+                "text": "Dr. Martinez is very friendly and makes you feel comfortable. Great optometrist!"
+            },
+            {
+                "reviewer_name": "Noah Martinez",
+                "reviewer_datetime": "2024-06-05T14:15:00",
+                "text": "I had a great experience with Dr. Martinez. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Isabella Wilson",
+                "reviewer_datetime": "2024-07-15T10:00:00",
+                "text": "Dr. Martinez is very professional and caring. Great experience!"
+            }
+        ]
+    }
+]

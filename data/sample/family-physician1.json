@@ -1,0 +1,172 @@
+[
+    {
+        "provider_name": "Dr. Sarah Thompson",
+        "provider_type": "Family Physician",
+        "provider_address": "123 Health St, Wellness City, USA",
+        "area_code": "123",
+        "phone_number": "456-7890",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "reviewer_datetime": "2022-01-15T10:00:00",
+                "text": "Dr. Thompson is very attentive and caring. She takes the time to listen to my concerns."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "reviewer_datetime": "2022-02-20T14:30:00",
+                "text": "I had to wait for over an hour past my appointment time. Not happy with the service."
+            },
+            {
+                "reviewer_name": "Michael Brown",
+                "reviewer_datetime": "2022-03-10T09:45:00",
+                "text": "Dr. Thompson's office is very clean and the staff is friendly. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Emily Davis",
+                "reviewer_datetime": "2022-04-05T11:15:00",
+                "text": "I felt rushed during my appointment and didn't get all my questions answered."
+            },
+            {
+                "reviewer_name": "David Wilson",
+                "reviewer_datetime": "2022-05-22T16:30:00",
+                "text": "Dr. Thompson is very knowledgeable and explains everything clearly. Great experience!"
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. James Anderson",
+        "provider_type": "Family Physician",
+        "provider_address": "456 Care Blvd, Healthtown, USA",
+        "area_code": "456",
+        "phone_number": "789-0123",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Martinez",
+                "reviewer_datetime": "2022-06-18T10:00:00",
+                "text": "Dr. Anderson is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Liam Johnson",
+                "reviewer_datetime": "2022-07-25T13:30:00",
+                "text": "The office is outdated and the equipment looks old. Needs improvement."
+            },
+            {
+                "reviewer_name": "Olivia Rodriguez",
+                "reviewer_datetime": "2022-08-30T15:00:00",
+                "text": "Dr. Anderson is very friendly and makes you feel comfortable. Great physician!"
+            },
+            {
+                "reviewer_name": "Noah Garcia",
+                "reviewer_datetime": "2022-09-10T11:30:00",
+                "text": "I had a great experience with Dr. Anderson. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Isabella Hernandez",
+                "reviewer_datetime": "2022-10-05T14:15:00",
+                "text": "Dr. Anderson is very professional and caring. Great experience!"
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. William Brown",
+        "provider_type": "Family Physician",
+        "provider_address": "789 Wellness Ave, Healthville, USA",
+        "area_code": "789",
+        "phone_number": "012-3456",
+        "reviews": [
+            {
+                "reviewer_name": "Lucas Johnson",
+                "reviewer_datetime": "2022-11-15T10:00:00",
+                "text": "Dr. Brown is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Mason Davis",
+                "reviewer_datetime": "2022-12-20T14:30:00",
+                "text": "I had to wait a long time, but Dr. Brown was worth it. Very thorough."
+            },
+            {
+                "reviewer_name": "Ethan Wilson",
+                "reviewer_datetime": "2023-01-10T09:45:00",
+                "text": "Dr. Brown's office is very clean and the staff is friendly. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Alexander Martinez",
+                "reviewer_datetime": "2023-02-05T11:15:00",
+                "text": "I had a bad experience with Dr. Brown. The appointment felt rushed."
+            },
+            {
+                "reviewer_name": "Charlotte Garcia",
+                "reviewer_datetime": "2023-03-22T16:30:00",
+                "text": "Dr. Brown is very patient and takes the time to answer all my questions. Excellent physician."
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. Ava Wilson",
+        "provider_type": "Family Physician",
+        "provider_address": "321 Health St, Wellness Town, USA",
+        "area_code": "321",
+        "phone_number": "654-7890",
+        "reviews": [
+            {
+                "reviewer_name": "Amelia Johnson",
+                "reviewer_datetime": "2023-04-18T10:00:00",
+                "text": "Dr. Wilson is very professional and knowledgeable. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Harper Brown",
+                "reviewer_datetime": "2023-05-25T13:30:00",
+                "text": "The office is outdated and the equipment looks old. Needs improvement."
+            },
+            {
+                "reviewer_name": "Evelyn Davis",
+                "reviewer_datetime": "2023-06-30T15:00:00",
+                "text": "Dr. Wilson is very friendly and makes you feel comfortable. Great physician!"
+            },
+            {
+                "reviewer_name": "Abigail Martinez",
+                "reviewer_datetime": "2023-07-10T11:30:00",
+                "text": "I had a great experience with Dr. Wilson. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Ella Hernandez",
+                "reviewer_datetime": "2023-08-05T14:15:00",
+                "text": "Dr. Wilson is very professional and caring. Great experience!"
+            }
+        ]
+    },
+    {
+        "provider_name": "Dr. James Martinez",
+        "provider_type": "Family Physician",
+        "provider_address": "654 Care St, Health City, USA",
+        "area_code": "654",
+        "phone_number": "987-0123",
+        "reviews": [
+            {
+                "reviewer_name": "Aiden Johnson",
+                "reviewer_datetime": "2023-09-15T10:00:00",
+                "text": "Dr. Martinez is very professional and caring. Great experience!"
+            },
+            {
+                "reviewer_name": "Logan Brown",
+                "reviewer_datetime": "2023-10-20T14:30:00",
+                "text": "I had to wait a long time, but Dr. Martinez was worth it. Very thorough."
+            },
+            {
+                "reviewer_name": "Lucas Davis",
+                "reviewer_datetime": "2023-11-10T09:45:00",
+                "text": "Dr. Martinez's office is very clean and the staff is friendly. Highly recommend!"
+            },
+            {
+                "reviewer_name": "Mason Wilson",
+                "reviewer_datetime": "2023-12-05T11:15:00",
+                "text": "I had a bad experience with Dr. Martinez. The appointment felt rushed."
+            },
+            {
+                "reviewer_name": "Ethan Garcia",
+                "reviewer_datetime": "2024-01-22T16:30:00",
+                "text": "Dr. Martinez is very patient and takes the time to answer all my questions. Excellent physician."
+            }
+        ]
+    }
+]
